@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97d15315.css",
+    "main.js": "/static/js/main.be31ed9e.js",
+    "static/media/egyTecnologyVideo.mp4": "/static/media/egyTecnologyVideo.d0fe357d7d98651a813c.mp4",
+    "static/media/Logo.jpg": "/static/media/Logo.e9dbb0cf077b5dbca594.jpg",
+    "static/media/it-company.jpg": "/static/media/it-company.eb03bb876f10c33e2d97.jpg",
+    "static/media/companys.jpg": "/static/media/companys.2ffb32ea021a96d4895f.jpg",
+    "static/media/Small-Business-IT-Support-Services-e1581368928499.jpg": "/static/media/Small-Business-IT-Support-Services-e1581368928499.60ca9ef555701ee830d0.jpg",
+    "static/media/laptops.jpeg": "/static/media/laptops.3cfde66f87f93fbe1c7b.jpeg",
+    "static/media/servers.jpeg": "/static/media/servers.383f09c62e3befcc556e.jpeg",
+    "index.html": "/index.html",
+    "main.97d15315.css.map": "/static/css/main.97d15315.css.map",
+    "main.be31ed9e.js.map": "/static/js/main.be31ed9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d15315.css",
+    "static/js/main.be31ed9e.js"
+  ]
+}
